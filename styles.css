@@ -1,0 +1,33 @@
+body {
+    background-image: url(http://www.downloadtizenapps.com/wp-content/uploads/2014/05/pacman-games.jpg)
+}
+
+h1, h2 {
+    text-align: center;
+    color: #cdffec
+}
+
+ul {
+    list-style-type: none
+}
+
+.nav-links {
+    border: 2px solid red;
+    display: inline-block;
+    width: 120 px;
+    text-align: center;
+}
+
+.nav-link a {
+    padding-right: 32px;
+    text-decoration: none;
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    font-size: 64px;
+}
+
+footer {
+    text-align: left;
+    color: #cdffec
+}
